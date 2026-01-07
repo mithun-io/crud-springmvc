@@ -1,6 +1,6 @@
 # crud-springmvc 
-IDE - eclipse
-Database - MySql workbench
+ide - eclipse
+database - mysql workbench
 ## step 1: create a maven repository, uncheck the checkbox
            search in filter apache.maven, scroll down chose maven-archtype-webapp
 ## step 2: if there is no src/main/java or src/main/resources manually create it
